@@ -6,7 +6,11 @@
 <div align="center">
 
 <!-- ══════════ HERO ══════════ -->
+<<<<<<< HEAD
 <img width="100%" src="./assets/hero.svg" alt="Abishek animated hero banner" />
+=======
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:090014,40:26003D,75:8A145C,100:FF2E88&height=300&section=header&text=ABISHEK&fontSize=90&fontColor=ffffff&fontAlignY=40&stroke=FF4FA3&strokeWidth=2&desc=FULL%20STACK%20DEVELOPER%20•%20AI%20EXPLORER%20•%20CREATIVE%20BUILDER&descSize=17&descAlignY=65&animation=fadeIn" alt="Abishek banner" />
+>>>>>>> aa7e46e08c25fad08068be7d5a3739a2b3d9a3ce
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2600&pause=800&color=FF4FA3&center=true&vCenter=true&width=760&height=60&lines=Building+digital+experiences+with+code+%E2%9C%A8;Turning+complex+problems+into+simple+solutions;Full+Stack+%7C+AI+%7C+Cloud+%7C+DevOps;Code.+Create.+Innovate.+%F0%9F%9A%80;Always+learning.+Always+building." alt="Typing animation" />
@@ -27,6 +31,7 @@
 
 <br/><br/>
 
+<<<<<<< HEAD
 <img src="./assets/divider.svg" width="100%" />
 
 </div>
@@ -39,6 +44,9 @@
 <img src="./assets/terminal.svg" width="85%" alt="Animated terminal" />
 
 <img src="./assets/divider.svg" width="100%" />
+=======
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090014,50:FF2E88,100:090014&height=3&section=header" width="80%" />
+>>>>>>> aa7e46e08c25fad08068be7d5a3739a2b3d9a3ce
 
 </div>
 
@@ -109,16 +117,22 @@ const abishek = {
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishek16-coder&layout=compact&hide_border=true&bg_color=0D0615&title_color=FF4FA3&text_color=E9D5FF&langs_count=8" height="165" />
 
+<<<<<<< HEAD
 <br/><br/>
 
 <img src="./assets/skills.svg" width="85%" alt="Animated skill power levels" />
 
+=======
+>>>>>>> aa7e46e08c25fad08068be7d5a3739a2b3d9a3ce
 </div>
 
 <br/>
 
+<<<<<<< HEAD
 <div align="center"><img src="./assets/divider.svg" width="100%" /></div>
 
+=======
+>>>>>>> aa7e46e08c25fad08068be7d5a3739a2b3d9a3ce
 <!-- ══════════ 03 · FEATURED BUILDS ══════════ -->
 <div align="center">
 
@@ -250,8 +264,11 @@ A simple Streamlit app to record, review and understand your spending.
 
 <br/>
 
+<<<<<<< HEAD
 <div align="center"><img src="./assets/divider.svg" width="100%" /></div>
 
+=======
+>>>>>>> aa7e46e08c25fad08068be7d5a3739a2b3d9a3ce
 <!-- ══════════ 05 · GITHUB ACTIVITY ══════════ -->
 <div align="center">
 
@@ -303,8 +320,11 @@ A simple Streamlit app to record, review and understand your spending.
 
 <br/>
 
+<<<<<<< HEAD
 <div align="center"><img src="./assets/divider.svg" width="100%" /></div>
 
+=======
+>>>>>>> aa7e46e08c25fad08068be7d5a3739a2b3d9a3ce
 <!-- ══════════ 07 · CONNECT ══════════ -->
 <div align="center">
 
