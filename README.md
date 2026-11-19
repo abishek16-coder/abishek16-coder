@@ -18,7 +18,7 @@
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="./divider.svg" width="100%" />
 
 ## About
 
@@ -33,7 +33,7 @@ I'm a BCA student who builds across **web, mobile and AI**. I like products that
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="./divider.svg" width="100%" />
 
 ## Stack
 
@@ -45,7 +45,7 @@ I'm a BCA student who builds across **web, mobile and AI**. I like products that
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="./divider.svg" width="100%" />
 
 ## Selected work
 
@@ -108,7 +108,7 @@ A simple interface to record and review everyday spending.<br/>
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="./divider.svg" width="100%" />
 
 ## Activity
 
@@ -136,7 +136,7 @@ A simple interface to record and review everyday spending.<br/>
 
 <div align="center">
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="./divider.svg" width="100%" />
 
 <a href="https://github.com/abishek16-coder"><img src="https://img.shields.io/badge/GitHub-abishek16--coder-0B1F17?style=for-the-badge&logo=github&logoColor=F5A524" /></a>
 
