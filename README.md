@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Abishek" />
+<img src="./hero.svg" width="100%" alt="Abishek" />
 
 <br/>
 
